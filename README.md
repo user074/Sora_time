@@ -18,3 +18,7 @@ Additionally we can use [DiT](https://github.com/facebookresearch/DiT) for the m
 A simple method is to use same cropped sized videos to test the time consistency
 
 
+
+[GD] For evaluation metrics: How to check consistency quantitatively. 
+
+
